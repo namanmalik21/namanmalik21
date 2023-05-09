@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-* 🌍  I'm based in I've been learning to code for 4 Years. I started with HTML , but have really found a passion for Frontend Development
+* 🌍  I'm based in Rewari,Haryana,I've been learning to code for 4 Years. I started with HTML , but have really found a passion for Frontend Development
 * ✉️  You can contact me at [namanmalik21@gmail.com](mailto:namanmalik21@gmail.com)
 * 🧠  I'm learning React.js,TypeScript and Node.js
 * 🤝  I'm open to collaborating on Frontend Intresting Projects
