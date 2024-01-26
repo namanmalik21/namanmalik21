@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-* 🌍  I'm based in Rewari,Haryana,I've been learning to code for 4 Years. I started with HTML , but have really found a passion for Full Stack Development
+* 🌍  Embarking on a four-year coding journey 🚀, I began with HTML and later found my true passion in Full Stack Development, specializing in React.js ⚛️, Node.js 🚂, and mastering the art of API integration 🌐—a fruitful progression that continues to fuel my enthusiasm for coding
 * ✉️  You can contact me at [namanmalik21@gmail.com](mailto:namanmalik21@gmail.com)
   
 
